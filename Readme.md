@@ -31,9 +31,9 @@ Other required packages can be installed by using below commands.
 ```
 Now to run it type following command in terminal
 ```python
-  python "dork searcher.py" 
+  python dork-searcher.py
   or
-  python3 "dork seacher.py"
+  python3 dork-seacher.py
 ```
 
 
