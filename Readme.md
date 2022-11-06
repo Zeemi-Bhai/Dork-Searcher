@@ -29,6 +29,12 @@ Other required packages can be installed by using below commands.
 ```python
   pip install slowprint
 ```
+Now to run it type following command in terminal
+```python
+  python "dork searcher.py" 
+  or
+  python3 "dork seacher.py"
+```
 
 
 ## License
